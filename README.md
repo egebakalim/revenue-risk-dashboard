@@ -160,9 +160,5 @@ This reflects real-world analytics maturity beyond predictive modeling.
 https://public.tableau.com/app/profile/ege.bakal.m/viz/CustomerChurnRevenueRiskIntelligence/RevenueatRisk-ExecutiveView#1
 
 Ege Bakalım
-Data Scientist
-linkedin.com/in/egebakalim
-github.com/egebakalim
-
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
